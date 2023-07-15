@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Open+Sans&display=swap');
 
 [data-toggle=collapse].collapsed i:before {
   content: "";
@@ -17,7 +17,7 @@
   overflow: hidden;
   text-decoration: none;
   color: #fff;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Nunito';
   font-size: 18px;
   font-weight: 700;
   width: 100%;
@@ -41,13 +41,16 @@
 
 
 
+
+
+
 #accordion .accordion-body {
   padding: 10px 20px;
   margin-bottom: 8px;
  border-radius: 6px;
  background-color: white;
  box-shadow: 0px 2px 10px -6px #1c447c;
- font-family: 'Open Sans', sans-serif;;
+ font-family: 'Nunito';;
  letter-spacing: 0px;
   word-spacing: normal; 
   line-height: 1.5; 
@@ -57,7 +60,7 @@
 }
 
 .parrafo{
- font-family: 'Open Sans', sans-serif;;
+ font-family: 'Nunito';;
  letter-spacing: 0px;
  word-spacing: normal; 
  line-height: 1.2; 
@@ -85,7 +88,7 @@
 #accordion .accordion-body li:before {
  
   /*padding-right: 5px;
-  font-family: "'Open Sans', sans-serif;";
+  font-family: "'Nunito';";
   font-size: 16px;
   font-style: normal;
   color: #213744;*/
@@ -107,7 +110,7 @@
 
 #leyenda {
  font-size:16px;
- font-family: 'Open Sans', sans-serif;;
+ font-family: 'Nunito';;
  font-weight: 600;
 letter-spacing: 0.1px;
 color:#1A4A73;
